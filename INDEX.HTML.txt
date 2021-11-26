@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
-<title>For MaMa SuYiNandar</title>
+<title>MaMa Ko Kya Nw Ayan CHIT Ny Mi P </title>
 <body>
 
-<h1>A Ma Ko Kya Nw Ayan CHIT Ny Mi P </h1>
-<p>kya nw ka mama twet perfect ma hok lout pr wuu but kya nw mama 1 yout htal ko pl CHIT ny tr ma loh achit khan ya mat mama sate ma nyint ya mr tay chr pr tl mama thr pyan chit yin di kabar mr a pw sone luthr phyit mr tay chr tl Sin Sar Pay Pr Nw PLease MAMA </p>
-
+<h1>kya nw ka mama twet perfect ma hok lout pr wuu but kya nw mama 1 yout htal ko pl CHIT ny tr ma loh achit khan ya mat mama sate ma nyint ya mr tay chr pr tl mama thr pyan chit yin di kabar mr a pw sone luthr phyit mr tay chr tl Sin Sar Pay Pr Nw PLease MAMA </h1>
+<p>I Love You So Much</p>
 </body>
 </html>
